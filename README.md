@@ -56,9 +56,8 @@ The topic name in generated StringIdlPublisher.cxx and StringIdlSubscriber.cxx a
 Build the package by running
 
 ```sh
-mkdir example_idl_ws
-cd example_idl_ws
 git clone https://github.com/JiaqiaoZhang/example_idl_ws.git
+cd example_idl_ws
 colcon build
 ```
 
